@@ -65,6 +65,7 @@ This code does a request to some php script and gets response from it.
 *   RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 *   Git Visualisated [learngitbranching](https://learngitbranching.js.org/?locale=ru_RU)
 *   Frontend Basics [freecodecamp](https://www.freecodecamp.org/)
+*   Code-Basics Javascript [code-basics](https://code-basics.com/languages/javascript)
 
 
 * * *
