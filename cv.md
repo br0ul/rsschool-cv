@@ -73,7 +73,5 @@ This code does a request to some php script and gets response from it.
 
 *   English - Intermediate/Upper-intermediate (according to the online test at ![EFset Logo](https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg) [www.efset.org](https://www.efset.org/quick-check))  
     [EFset Score 50min](https://www.efset.org/cert/DW3jMk)
-    ![EFset Score 15min](https://lh3.google.com/u/0/d/1lGqOJfq0NNtcf72X5o5N__6I5sP920Em=w320-h200-k-iv1)
-
 *   Russian - Native
 *   German - Basic
