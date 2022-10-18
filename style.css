@@ -13,6 +13,14 @@ body {
     min-width: 400px;
     max-width: 1012px;
     margin: 50px auto;
+    padding: 0 10px;
+}
+
+.rsschool-cv {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .markdown-body {
@@ -39,4 +47,12 @@ footer a {
 
 footer img {
     height: 40px;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
