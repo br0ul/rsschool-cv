@@ -39,7 +39,7 @@ code {
         flex-wrap: nowrap;
     }
     code {
-        width: 300px;
+        width: 100%;
     }
     .first_col {
         width: 300px;
