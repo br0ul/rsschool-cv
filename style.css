@@ -1,0 +1,120 @@
+html {
+    font-family: Roboto, sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    background-color: #ebf2f2;
+}
+
+header {
+    margin: 0 auto 15px;
+}
+
+.title,
+.photo {
+    margin: 0 auto;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.first_col {
+    width: 350px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #efd6a9;
+    padding: 10px 15px;
+}
+
+.second_col {
+    max-width: 550px;
+}
+
+.container-lg {
+    min-width: 400px;
+    max-width: 1012px;
+    margin: 5px auto;
+    padding: 0 10px;
+}
+
+.rsschool-cv {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.markdown-body {
+    font-size: 16px;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+
+footer {
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ebf2f2;
+    margin-top: 30px;
+}
+
+footer a {
+    color: #000;
+}
+
+footer img {
+    height: 40px;
+}
+
+.info {
+    padding: 10px 25px;
+    border: #efd6a9 4px solid;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: space-around;
+    gap: 40px;
+}
+
+.topbutton {
+    width: 100px;
+    border: 2px solid #ccc;
+    background: #f7f7f7;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+    color: #333;
+    font-family: verdana;
+    font-size: 12px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav details {
+    color: rgb(0, 0, 238);
+    line-height: 20px;
+}
+
+details h3 {
+    display: inline;
+}
