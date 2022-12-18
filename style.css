@@ -5,6 +5,10 @@ html {
     background-color: #ebf2f2;
 }
 
+body {
+    margin: 0;
+}
+
 header {
     margin: 0 auto 15px;
 }
@@ -34,27 +38,6 @@ code {
     overflow: scroll;
 }
 
-@media (min-width: 740px) {
-    main {
-        flex-wrap: nowrap;
-    }
-    code {
-        width: 100%;
-    }
-    .first_col {
-        width: 300px;
-    }
-    .second_col {
-        max-width: 550px;
-    }
-}
-
-@media (min-width: 960px) {
-    .first_col {
-        width: 350px;
-    }
-}
-
 .first_col {
     background-color: #efd6a9;
 }
@@ -63,7 +46,7 @@ code {
     min-width: 350px;
     max-width: 1012px;
     margin: 5px auto;
-    padding: 0 10px;
+    padding: 0 2px;
 }
 
 .rsschool-cv {
@@ -144,4 +127,28 @@ nav details {
 
 details h3 {
     display: inline;
+}
+
+@media (min-width: 740px) {
+    main {
+        flex-wrap: nowrap;
+    }
+    .container-lg {
+        padding: 0 10px;
+    }
+    code {
+        width: 100%;
+    }
+    .first_col {
+        width: 300px;
+    }
+    .second_col {
+        max-width: 550px;
+    }
+}
+
+@media (min-width: 960px) {
+    .first_col {
+        width: 350px;
+    }
 }
