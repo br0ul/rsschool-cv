@@ -38,6 +38,9 @@ code {
     main {
         flex-wrap: nowrap;
     }
+    code {
+        width: 300px;
+    }
     .first_col {
         width: 300px;
     }
