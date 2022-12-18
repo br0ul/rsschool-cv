@@ -9,6 +9,21 @@ body {
     margin: 0
 }
 
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.first_col {
+    width: 200px;
+}
+
+.second_col {
+    max-width: 800px;
+}
+
 .container-lg {
     min-width: 400px;
     max-width: 1012px;
