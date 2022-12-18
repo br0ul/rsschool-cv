@@ -34,7 +34,7 @@ main {
 }
 
 .container-lg {
-    min-width: 400px;
+    min-width: 350px;
     max-width: 1012px;
     margin: 5px auto;
     padding: 0 10px;
